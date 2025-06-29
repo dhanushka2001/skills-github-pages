@@ -252,4 +252,7 @@ int main(int argc, char* argv[]) {
             out_packet.size = 0;
 
             ret = avcodec_send_frame
+```
+
 Write a techncial article about using Dear ImGui in C++
+
