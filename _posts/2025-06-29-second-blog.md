@@ -1,10 +1,8 @@
 ---
 title: Using FFmpeg in C++ A Comprehensive Guide
-pubDate: "2023-05-03T14:16:44.767Z"
+date: 2025-06-29
 description: "In this article, we will explore how to harness the power of FFmpeg in your C++ projects, discussing the necessary steps for integrating the library, and providing example code to help you get started."
 tags: ["ffmpeg", "cpp"]
-layout: "@/templates/BasePost.astro"
-imgSrc: /imgs/2023/2112480316.png
 ---
 # Using FFmpeg in C++: A Comprehensive Guide
 
